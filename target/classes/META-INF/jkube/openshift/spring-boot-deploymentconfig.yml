@@ -6,7 +6,7 @@ metadata:
     app.openshift.io/vcs-ref: main
     jkube.io/git-url: https://github.com/antoniocipollaro/springoncloud.git
     app.openshift.io/vcs-uri: https://github.com/antoniocipollaro/springoncloud.git
-    jkube.io/git-commit: 198feec66bf6d0ae053559b1876b2ad984144f3b
+    jkube.io/git-commit: 7aa03d43fcb90e1a54870e1f13dce8477f2caf6a
     jkube.io/git-branch: main
     jkube.io/scm-url: https://github.com/spring-projects/spring-boot/spring-boot-starter-parent/spring-boot
     jkube.io/scm-tag: HEAD
@@ -37,7 +37,7 @@ spec:
         jkube.io/git-url: https://github.com/antoniocipollaro/springoncloud.git
         app.openshift.io/vcs-uri: https://github.com/antoniocipollaro/springoncloud.git
         jkube.io/scm-tag: HEAD
-        jkube.io/git-commit: 198feec66bf6d0ae053559b1876b2ad984144f3b
+        jkube.io/git-commit: 7aa03d43fcb90e1a54870e1f13dce8477f2caf6a
       labels:
         testProject: spring-boot-sample
         app: spring-boot

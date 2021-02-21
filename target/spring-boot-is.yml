@@ -10,6 +10,6 @@ items:
     tags:
     - from:
         kind: ImageStreamImage
-        name: spring-boot@sha256:6267cf85e737631e2cb44d08d667c66c6899c887d57ad3f3dc88a8bbd63da6b7
-        namespace: myproject
+        name: spring-boot@sha256:4087bfa1711d48acaebd903b6f0aebbac290b14f3bfa9c7f1bd5381a58d43f3b
+        namespace: antonio-cipollaro-code
       name: 1.1.0
